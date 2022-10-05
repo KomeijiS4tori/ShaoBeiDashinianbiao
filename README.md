@@ -1,6 +1,7 @@
 # Calcium Bot
 
-QQ: 1909422218 (calcium-bot)
+机器人QQ: 1909422218 (calcium-bot)
+
 维护: 893667349 (Satori/CalciumSilicate)
 
 ## B站信息推送 (haruka_bot)
@@ -63,9 +64,12 @@ QQ: 1909422218 (calcium-bot)
 
 `!calc 算式` 简单的计算
 
+如`!calc 2**5` 计算2的五次方
+
 ## [Cytus]黑P计算器 (black_perfect.py)
 
 `!bp <TP> <C.Perfect> <Good> <Bad> <Miss>` 计算黑P数量
+
 `!bp <C.Perfect> <Perfect> <Good> <Bad> <Miss>` 通过成绩计算TP
 
 ## 鸣谢
