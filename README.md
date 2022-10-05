@@ -1,4 +1,7 @@
-# Calcium-Bot
+# Calcium Bot
+
+QQ: 1909422218 (calcium-bot)
+维护: 893667349 (Satori/CalciumSilicate)
 
 ## B站信息推送 (haruka_bot)
 
@@ -42,16 +45,29 @@
 
 `!重建/real-esrgan/超分辨率重建/esrgan/real_esrgan` 开始操作
 
-## Mania段位ACC计算器 (mania_calculator)
+## [Mania]段位ACC计算器 (mania_calculator)
 
-`!mdan list` 查看段位列表
+`!mdan list` 查看段位列表 (目前支持Reform, Malodyv2, Malodyv3和自定义，如果需要更多支持可以找硅酸钙)
 
 `!mdan <dan> <1st> <2st> <3rd> <4th>` 计算单曲ACC
 
 `!imdan <dan> <1st> <2st> <3rd> <4th>` 通过单曲ACC计算段位ACC (用于评估自己是否能过整段)
 
-## Malody谱面速度修改 (mania-bpm-changer.py)
+## [Malody]谱面速度修改 (mania-bpm-changer.py)
 
 注意：只支持Malody
 
 `!sc up` 开始操作
+
+## 计算器 (calculator.py)
+
+`!calc 算式` 简单的计算
+
+## [Cytus]黑P计算器 (black_perfect.py)
+
+`!bp <TP> <C.Perfect> <Good> <Bad> <Miss>` 计算黑P数量
+`!bp <C.Perfect> <Perfect> <Good> <Bad> <Miss>` 通过成绩计算TP
+
+## 鸣谢
+
+- Ptolemy
