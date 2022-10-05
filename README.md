@@ -70,4 +70,4 @@ QQ: 1909422218 (calcium-bot)
 
 ## 鸣谢
 
-- Ptolemy
+- [Ptolemy](https://space.bilibili.com/46465090): https://space.bilibili.com/46465090
