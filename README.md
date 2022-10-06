@@ -1,5 +1,7 @@
 # Calcium Bot
 
+不会支持Arcaea查分，原因是不会支持Arcaea查分，嗯，我不会
+
 机器人QQ: 1909422218 (calcium-bot)
 
 维护: 893667349 (Satori/CalciumSilicate)
@@ -16,9 +18,11 @@
 
 支持QQ音乐、网易云、酷我、酷狗、咪咕、B站音频区
 
-使用方法：`!点歌/qq点歌/网易点歌/酷我点歌/酷狗点歌/咪咕点歌/b站点歌 + 关键词`
+使用方法：`!ncm/点歌/qq点歌/网易点歌/酷我点歌/酷狗点歌/咪咕点歌/b站点歌 + 关键词`
 
-默认为QQ点歌
+`!点歌`默认为QQ点歌
+
+`!ncm`为网易点歌
 
 ## LOL比赛查询 (nonebot_plugin_lolmatch)
 
@@ -38,7 +42,7 @@
 
 ## 谁AT我？ (nonebot_plugin_who_at_me)
 
-`谁艾特我` 查看谁艾特我
+`谁艾特我/!satw` 查看谁艾特我
 
 ## 图像超分辨率重建 (nonebot_plugin_RealESRGAN)
 
