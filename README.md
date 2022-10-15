@@ -50,13 +50,17 @@
 
 `!重建/real-esrgan/超分辨率重建/esrgan/real_esrgan` 开始操作
 
-## [Mania]段位ACC计算器 (mania_calculator)
+## [Mania]Mania助手 (mania_helper)
 
-`!mdan list` 查看段位列表 (目前支持Reform, Malodyv2, Malodyv3和自定义，如果需要更多支持可以找硅酸钙)
+目前只有一个功能，以后`(咕咕咕)`会把其他重要的功能也一并整合到这个插件中，比如malody和osu谱面互转（可能会支持其他格式），谱面变速，多谱面一键组曲，谱面裁剪等等
 
-`!mdan <dan> <1st> <2st> <3rd> <4th>` 计算单曲ACC
+### 1. ACC计算器
 
-`!imdan <dan> <1st> <2st> <3rd> <4th>` 通过单曲ACC计算段位ACC (用于评估自己是否能过整段)
+目前支持Reform, Malodyv2, Malodyv3和自定义
+
+`!ma calc <dan> <1st> <2st> <3rd> <4th>` 计算单曲ACC
+
+`!ma icalc <dan> <1st> <2st> <3rd> <4th>` 通过单曲ACC计算段位ACC (用于评估自己是否能过整段)
 
 ## [Malody]谱面速度修改 (mania-bpm-changer.py)
 
@@ -89,6 +93,7 @@
 | `撤回间隔+时间（秒）`                       | 撤回间隔20、撤回间隔0                      | 设置撤回间隔之后，机器人将会在指定间隔后撤回发送的图片，撤回间隔为0时，机器人将不会进行撤回。同时撤回间隔以群聊为单位，每个群都能设置不同的间隔，私聊将不会触发撤回操作 |
 
 部分命令仅允许管理员操作，已添加管理员有CalciumSilicate, ADHeinz, Resio
+
 
 ## 鸣谢
 
