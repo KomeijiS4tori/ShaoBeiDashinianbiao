@@ -6,13 +6,19 @@
 
 维护: 893667349 (Satori/CalciumSilicate)
 
+
+
 ## B站信息推送 (haruka_bot)
 
 输入 `!帮助` 获取帮助信息
 
+
+
 ## B站链接解析 (nonebot_plugin_analysis_bilibili)
 
 直接将视频/动态/专栏等链接或AV/BV号发送至群聊中
+
+
 
 ## 点歌 (nonebot_plugin_simplemusic)
 
@@ -23,6 +29,8 @@
 `!点歌`默认为QQ点歌
 
 `!ncm`为网易点歌
+
+
 
 ## LOL比赛查询 (nonebot_plugin_lolmatch)
 
@@ -40,9 +48,13 @@
 
 `!lol 联赛详情` [tournamentID] 查看所选联赛近期已完成的赛事获取 [matchID]
 
+
+
 ## 谁AT我？ (nonebot_plugin_who_at_me)
 
 `谁艾特我/!satw` 查看谁艾特我
+
+
 
 ## 图像超分辨率重建 (nonebot_plugin_RealESRGAN)
 
@@ -50,9 +62,13 @@
 
 `!重建/real-esrgan/超分辨率重建/esrgan/real_esrgan` 开始操作
 
+
+
 ## [Mania]Mania助手 (mania_helper)
 
 目前只有一个功能，以后`(咕咕咕)`会把其他重要的功能也一并整合到这个插件中，比如malody和osu谱面互转（可能会支持其他格式），谱面变速，多谱面一键组曲，谱面裁剪等等
+
+
 
 ### 1. ACC计算器
 
@@ -62,11 +78,15 @@
 
 `!ma icalc <dan> <1st> <2st> <3rd> <4th>` 通过单曲ACC计算段位ACC (用于评估自己是否能过整段)
 
+
+
 ## [Malody]谱面速度修改 (mania-bpm-changer.py)
 
 注意：只支持Malody
 
 `!sc up` 开始操作
+
+
 
 ## 计算器 (calculator.py)
 
@@ -74,11 +94,15 @@
 
 如`!calc 2**5` 计算2的五次方
 
+
+
 ## [Cytus]黑P计算器 (black_perfect.py)
 
 `!bp <TP> <C.Perfect> <Good> <Bad> <Miss>` 计算黑P数量
 
 `!bp <C.Perfect> <Perfect> <Good> <Bad> <Miss>` 通过成绩计算TP
+
+
 
 ## 色图 (nonebot_plugin_setu)
 
@@ -93,6 +117,8 @@
 | `撤回间隔+时间（秒）`                       | 撤回间隔20、撤回间隔0                      | 设置撤回间隔之后，机器人将会在指定间隔后撤回发送的图片，撤回间隔为0时，机器人将不会进行撤回。同时撤回间隔以群聊为单位，每个群都能设置不同的间隔，私聊将不会触发撤回操作 |
 
 部分命令仅允许管理员操作，已添加管理员有CalciumSilicate, ADHeinz, Resio
+
+
 
 
 ## 鸣谢
