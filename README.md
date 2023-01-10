@@ -111,4 +111,4 @@
 
 ## 鸣谢
 
-- [Ptolemy](B站): https://space.bilibili.com/46465090 (Github): https://github.com/Ptolemyy
+- Ptolemy: [Bilibili]https://space.bilibili.com/46465090 [Github]https://github.com/Ptolemyy
